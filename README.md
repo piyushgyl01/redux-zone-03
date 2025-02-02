@@ -1,2 +1,2 @@
 # redux-zone-03
-Created with CodeSandbox
+Tinkering with Redux using vanilla js
